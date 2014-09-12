@@ -1,7 +1,7 @@
 {
   "name": "grunt-pngdrive",
   "description": "Grunt plugin to generate PNGDrive files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/xperiments/grunt-pngdrive",
   "author": {
     "name": "Pedro Casaubon",
